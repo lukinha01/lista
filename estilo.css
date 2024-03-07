@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(39, 192, 219);
+}
+
+h1{
+   font-size: 60px;
+   color: aqua;
+}
+
+#li{ 
+    color: brown;
+}
